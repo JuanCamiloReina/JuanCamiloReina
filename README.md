@@ -13,7 +13,7 @@ a little bit more don't worry I'll start.
 
 ## A little bit about myself
 
-As I have said my name is Juan Camilo Reina I was born in 1997 in Bogotá Colombia and I started coding on 2020 due to an internship
+I was born in 1997 in Bogotá Colombia and I started coding on 2020 due to an internship
 opportunity in the field of software programming I started studying in for a year and went trought that internship during the best part of six months
 and learnt a lot about SQL databases and PHP development and worked on myself to learn about algorithms, data structures and python.
 
